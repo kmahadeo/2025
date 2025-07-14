@@ -34,3 +34,18 @@ Public highlights of my 2025 technical and strategic work (most code and GTM con
 > I am happy to discuss references, outcomes, and problem-solving approach with trusted partners, hiring managers, or collaborators—connect with me directly.
 
 ---
+
+## 👋 Connect
+
+- [LinkedIn](https://www.linkedin.com/in/kaushikmahadeokar/)
+- Email: [kaushik.mahadeokar@gmail.com](mailto:kaushik.mahadeokar@gmail.com)
+
+---
+
+### **About**
+
+Disciplined builder. Relentlessly growth-oriented.  
+Focused on architecting secure systems, scaling product-market fit, and developing high-performance teams.  
+On a mission to deliver impact, not just code.
+
+---
